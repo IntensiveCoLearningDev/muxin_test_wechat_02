@@ -3,55 +3,57 @@
 ## Introduction
 
 Introduction placeholder
-
 ## Keywords
 
 Keywords placeholder
-
 ## Target Audience
 
 Target Audience placeholder
-
 ## Registration Period
 
 - Registration Start Date: 2026-01-01
 - Registration End Date: 2026-01-04
-
 ## Study Duration
 
 - Study Start Date: 2026-01-05
 - Study End Date: 2026-01-14
-
 ## Initiator
 
 - Name: Muxin
 - GitHub ID: muxin-web3
 - Telegram: muxin_eth
 - Email: muxin333333@gmail.com
-
 ## Organizations
 
-The organizing entities of the Intensive Co-learning. There can be multiple. 
+
+
 
 ## Leave Rules
 
-2 leaves per week.
+Allowed 2 days leave per week.
+
 
 ## Community
 
-Telegram：
+Telegram：https://t.me/c/LXDAO/6215
 
-## Learning Materials / Course Schedule
+WeChat Group QR Code: ![WeChat QR](https://raw.githubusercontent.com/IntensiveCoLearningDev/muxin_test_wechat_02/main/assets/muxin-web3/images/2026-01-09-1767946314406-IMG_6376.JPG)
 
-Learning materials content
+WeChat Contact: _muxin_00000
+## Learning Materials/Course Schedule
+
+test content
+
 
 ## Study Rewards
 
 The greatest reward is gaining knowledge!
 
+
 ## Additional Information
 
 more information
+
 
 ## Registration and Check-In Rules
 
