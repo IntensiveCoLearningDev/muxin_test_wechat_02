@@ -64,18 +64,18 @@ more information
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-| Name |  |
-| ------------- |  |
-
+| Name | 1.05 | 1.06 | 1.07 | 1.08 | 1.09 | 1.10 | 1.11 | 1.12 | 1.13 | 1.14 |
+| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 <!-- END_COMMIT_TABLE -->
+
 
 <!-- STATISTICALDATA_START -->
 ## Statistics
 
 - Total Participants: 0
 - Completed Participants: 0
-- Completed Users:
-- Perfect Attendance Users:
+- Completed Users: 
+- Perfect Attendance Users: 
 - Failed Participants: 0
 - Failed Rate: 0.00%
 <!-- STATISTICALDATA_END -->
