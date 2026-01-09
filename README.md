@@ -1,4 +1,4 @@
-# Your Intensive Co-learning Name
+# Muxin test wechat
 
 ## Introduction
 
@@ -14,20 +14,20 @@ Target Audience placeholder
 
 ## Registration Period
 
-- Registration Start Date: 
-- Registration End Date: 
+- Registration Start Date: 2026-01-01
+- Registration End Date: 2026-01-04
 
 ## Study Duration
 
-- Study Start Date: 
-- Study End Date: 
+- Study Start Date: 2026-01-05
+- Study End Date: 2026-01-14
 
 ## Initiator
 
-- Name: 
-- GitHub ID: 
-- Telegram: 
-- Email: 
+- Name: Muxin
+- GitHub ID: muxin-web3
+- Telegram: muxin_eth
+- Email: muxin333333@gmail.com
 
 ## Organizations
 
